@@ -1,7 +1,6 @@
 import React from 'react';
 import { useForm } from 'react-hook-form';
 import s from './style.module.css';
-import gnome from './gnome.png';
 import { fetchGetDiscount } from '../../services/discountRequest';
 import { useEffect } from 'react';
 import { toast } from 'react-toastify';
