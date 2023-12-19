@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import s from './style.module.css';
-import flowers from './garden store.jpg';
 import { Link } from 'react-router-dom';
 import CategoryItem from '../../components/CategoryItem';
 import { useSelector } from 'react-redux';
