@@ -35,7 +35,6 @@
 .poster_info {
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
   margin-bottom: 100px;
   width: 100%;
   align-items: center;
