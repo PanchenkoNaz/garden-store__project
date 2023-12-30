@@ -25,8 +25,6 @@ const MainPage = () => {
               <button className={s.sale_btn}>Sale</button>
             </Link>
           </div>
-          {/* <div className={s.img_container}>
-          </div> */}
         </div>
       </div>
       <div className={s.categories_blok}>
