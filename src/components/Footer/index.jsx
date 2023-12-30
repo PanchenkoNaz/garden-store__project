@@ -39,7 +39,7 @@ const Footer = () => {
               target="_blank"
               to="https://www.google.com/search?q=telranDE"
             >
-              Linkstraße 2, 8 OG, 10785, Berlin, Deutschland
+              Linkstraße 6, 8 OG, 10785, Berlin, Deutschland
             </Link>
             <div className={s.schedule}>
               <p>
