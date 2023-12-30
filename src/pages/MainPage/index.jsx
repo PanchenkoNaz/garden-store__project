@@ -26,7 +26,6 @@ const MainPage = () => {
             </Link>
           </div>
           {/* <div className={s.img_container}>
-            <img className={s.img} src={flowers} alt="image_flowers" />
           </div> */}
         </div>
       </div>
