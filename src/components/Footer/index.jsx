@@ -11,7 +11,7 @@ const Footer = () => {
         <div className={s.contacts}>
           <div className={s.contacts_item}>
             <h2>Contact</h2>
-            <a className={s.phone} href="tel:+499999999999">
+            <a className={s.phone} href="tel:+491230009199">
               +49 123 000 91 99
             </a>
             <div className={s.soc_networks}>
